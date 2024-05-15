@@ -1,5 +1,5 @@
 # 💫 About Me: Future Mobile Dev
-🔭 I’m currently working on React Native<br>🌱 I’m currently learning JavaScript and React Native<br>💬 Ask me about Art, Music<br>
+🔭 I’m currently working on React Native, Kotlin<br>🌱 I’m currently learning React Native and Kotlin<br>💬 Ask me about Art, Music<br>
 
 
 ## 🌐 Socials:
