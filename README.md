@@ -1,4 +1,4 @@
-# 💫 About Me: Future Mobile Dev
+# 💫 About Me: Software Developer
 🔭 I’m currently working on React Native, Kotlin<br>🌱 I’m currently learning React Native and Kotlin<br>💬 Ask me about Art, Music<br>
 
 
